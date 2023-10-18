@@ -25,7 +25,7 @@ Analysis summary:
 - The average mileage values for each brans are in the range $116000 - $133000. There isn't any clear pattern in the mean price values, given the mileage values.
 - The most common brand-model combinations are: **Volkswagen Golf**, **BMW series 3**, **Opel Corsa**.
 
-<br>
+\
 ### Heavy Traffic Indicators on I-94
 The project is in the file `Heavy_Traffic_Indicators_on_I-94.ipynb` and is using `Metro_Interstate_Traffic_Volume.csv` dataset.
 This dataset can be found [here](https://archive.ics.uci.edu/dataset/492/metro+interstate+traffic+volume).
@@ -61,7 +61,7 @@ For nighttime data the following traffic indicators has been found:
 - Proximity shower rain.
 - Light intensity shower rain.
 
-<br>
+\
 ### Euro Daily Exchange Rates
 The project is in the file `Storytelling_Exchange_Rates.ipynb` and is using `euro-daily-hist_1999_2020.csv` dataset.
 This dataset can be found on [Kaggle](https://www.kaggle.com/datasets/lsind18/euro-exchange-daily-rates-19992020). 
