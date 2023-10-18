@@ -26,6 +26,8 @@ Analysis summary:
 - The most common brand-model combinations are: **Volkswagen Golf**, **BMW series 3**, **Opel Corsa**.
 
 
+
+
 ### Heavy Traffic Indicators on I-94
 The project is in the file `Heavy_Traffic_Indicators_on_I-94.ipynb` and is using `Metro_Interstate_Traffic_Volume.csv` dataset.
 This dataset can be found [here](https://archive.ics.uci.edu/dataset/492/metro+interstate+traffic+volume).
@@ -62,6 +64,8 @@ For nighttime data the following traffic indicators has been found:
 - Light intensity shower rain.
 
 
+
+
 ### Euro Daily Exchange Rates
 The project is in the file `Storytelling_Exchange_Rates.ipynb` and is using `euro-daily-hist_1999_2020.csv` dataset.
 This dataset can be found on [Kaggle](https://www.kaggle.com/datasets/lsind18/euro-exchange-daily-rates-19992020). 
@@ -80,6 +84,8 @@ Analysis summary:
 - Euro-USD rate increased rapidly during coronavirus pandemic in 2020.
 - Euro-Franc rate slightly decreased at the beginning of coronavirus pandemic in 2020.
 - Euro-Yuan rate increased during second wave of coronavirus pandemic in 2020.
+
+
 
 
 Code has been written in **Python** using **Jupyter Notebook**.
