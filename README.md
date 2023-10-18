@@ -23,7 +23,8 @@ Analysis summary:
 - On average, among the top 9 brands (with at least 2% share in the dataset), the most expensive are: **Audi** ($9094), **Mercedes Benz** ($8484), **BMW** ($8103).
 - On average, among the top 9 brands, the least expensive are: **Renault** ($2395), **Opel** ($2877), **Peugeot** ($3039).
 - The average mileage values for each brans are in the range $116000 - $133000. There isn't any clear pattern in the mean price values, given the mileage values.
-- The most common brand-model combinations are: **Volkswagen Golf**, **BMW series 3**, **Opel Corsa**.\
+- The most common brand-model combinations are: **Volkswagen Golf**, **BMW series 3**, **Opel Corsa**.
+
 
 ### Heavy Traffic Indicators on I-94
 The project is in the file `Heavy_Traffic_Indicators_on_I-94.ipynb` and is using `Metro_Interstate_Traffic_Volume.csv` dataset.
@@ -58,7 +59,8 @@ For nighttime data the following traffic indicators has been found:
 
 **Weather indicators**:
 - Proximity shower rain.
-- Light intensity shower rain.\
+- Light intensity shower rain.
+
 
 ### Euro Daily Exchange Rates
 The project is in the file `Storytelling_Exchange_Rates.ipynb` and is using `euro-daily-hist_1999_2020.csv` dataset.
@@ -77,7 +79,8 @@ Analysis summary:
 - The rolling mean for 30-day time interval has been chosen to show long-term trends for exchange rates.
 - Euro-USD rate increased rapidly during coronavirus pandemic in 2020.
 - Euro-Franc rate slightly decreased at the beginning of coronavirus pandemic in 2020.
-- Euro-Yuan rate increased during second wave of coronavirus pandemic in 2020.\
+- Euro-Yuan rate increased during second wave of coronavirus pandemic in 2020.
+
 
 Code has been written in **Python** using **Jupyter Notebook**.
 
