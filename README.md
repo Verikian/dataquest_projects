@@ -22,7 +22,7 @@ Analysis summary:
 - On average, among the top 9 brands (with at least 2% share in the dataset), the most expensive are: **Audi** ($9094), **Mercedes Benz** ($8484), **BMW** ($8103).
 - On average, among the top 9 brands, the least expensive are: **Renault** ($2395), **Opel** ($2877), **Peugeot** ($3039).
 - The average mileage values for each brans are in the range $116000 - $133000. There isn't any clear pattern in the mean price values, given the mileage values.
-- The most common brand-model combinations are: Volkswagen Golf, BMW series 3, Opel Corsa.
+- The most common brand-model combinations are: **Volkswagen Golf**, **BMW series 3**, **Opel Corsa**.
 
 ### Heavy Traffic Indicators on I-94
 The project is in the file `Heavy_Traffic_Indicators_on_I-94.ipynb` and is using `Metro_Interstate_Traffic_Volume.csv` dataset.
@@ -34,22 +34,26 @@ Tasks completed in the project:
 - analyzing weather indicators for each part.
 
 For daytime data the following traffic indicators has been found:
+
 **Time indicators**:
 - The traffic is heavier during warm months (March - October) compared to cold months (November – February).
 - The traffic is heavier on business days compared to the weekends.
 - On business days, the rush hours are around 7 and 16.
+
 **Weather indicators**:
 - Shower snow.
 - Light rain and snow.
 - Proximity thunderstorm with dizzle.
 
 For nighttime data the following traffic indicators has been found:
+
 **Time indicators**:
 - The traffic is heavier during warm months (March – October) compared to cold months (November – February).
 - After 3 o'clock the traffic is heavier on business days. Between 21 and 3 it's heavier during the weekends.
 - On business days, the rush hours are in the morning (between 5 and 6).
 - On business days, after 19 o'clock, the highest traffic is on Friday.
 - During the weekends, after 19 o'clock, the highest traffic is on Saturday.
+
 **Weather indicators**:
 - Proximity shower rain.
 - Light intensity shower rain.
@@ -71,6 +75,7 @@ Analysis summary:
 - Euro-USD rate increased rapidly during coronavirus pandemic in 2020.
 - Euro-Franc rate slightly decreased at the beginning of coronavirus pandemic in 2020.
 - Euro-Yuan rate increased during second wave of coronavirus pandemic in 2020.
+
 
 
 Code has been written in **Python** using **Jupyter Notebook**.
